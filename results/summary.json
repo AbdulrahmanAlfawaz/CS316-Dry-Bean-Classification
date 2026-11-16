@@ -1,0 +1,35 @@
+{
+  "raw_rows": 13611,
+  "duplicates": 68,
+  "clean_rows": 13543,
+  "missing": 0,
+  "features": 16,
+  "train_rows": 10834,
+  "test_rows": 2709,
+  "memory_before": 2584030,
+  "memory_after": 989322,
+  "memory_reduction_pct": 61.71398938866809,
+  "best_model": "Logistic regression",
+  "accuracy": 0.9213732004429679,
+  "macro_f1": 0.9316168975802108,
+  "baseline_accuracy": 0.2617201919527501,
+  "accuracy_ci": [
+    0.9110280546327059,
+    0.932078257659653
+  ],
+  "review": {
+    "threshold": 0.8,
+    "coverage": 0.8534514581026209,
+    "accepted_accuracy": 0.9710207612456747,
+    "review_count": 397
+  },
+  "class_counts": {
+    "DERMASON": 3546,
+    "SIRA": 2636,
+    "SEKER": 2027,
+    "HOROZ": 1860,
+    "CALI": 1630,
+    "BARBUNYA": 1322,
+    "BOMBAY": 522
+  }
+}
